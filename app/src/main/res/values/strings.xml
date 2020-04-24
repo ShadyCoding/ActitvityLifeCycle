@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActitvityLifeCycle</string>
+    <string name="goBack">Go Back</string>
+    <string name="shown_msg">Your msg will show here</string>
+</resources>
